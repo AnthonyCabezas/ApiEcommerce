@@ -1,0 +1,57 @@
+## Archivos de usuario de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Carpetas de compilación
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## Archivos de salida
+*.dll
+*.exe
+*.app
+*.log
+*.pdb
+*.mdb
+
+## Publicaciones
+publish/
+PublishProfiles/
+*.pubxml
+*.publishproj
+
+## NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.nuproj
+*.nuget.props
+*.nuget.targets
+packages/
+!packages/build/
+!packages/repositories.config
+
+## Archivos de base de datos locales
+*.dbmdl
+*.mdf
+*.ldf
+*.ndf
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## Archivos de sistema
+[Tt]humbs.db
+[Dd]esktop.ini
+*.DS_Store
+
+## Otros
+*.opendb
